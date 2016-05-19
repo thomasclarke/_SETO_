@@ -1,0 +1,8 @@
+*{
+font-family: 'Century Gothic';
+text-align: center;
+}
+#links{
+  float: left;
+  clear: left;
+}
